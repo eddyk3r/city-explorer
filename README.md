@@ -1,1 +1,4 @@
-# city-explorer
+# city explorer
+Mini-site de prezentare a unor destinații turistice,
+realizat în cadrul disciplinei Tehnologii Web.
+Autor: Birceanu Eduard-Valentin
