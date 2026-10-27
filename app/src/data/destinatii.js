@@ -6,3 +6,5 @@ export const destinatii = [
   { id: '5', oras: 'Kyoto', tara: 'Japonia', zile: 6, vizitat: false },
   { id: '6', oras: 'Tokyo', tara: 'Japonia', zile: 5, vizitat: false }
 ]
+
+export const stergeDestinatie = (list, id) => list.filter((d) => d.id !== id)
